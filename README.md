@@ -1,4 +1,4 @@
-# 📄 AI Resume Analyzer
+#  AI Resume Analyzer
 
 A clean, modern web app that analyzes a PDF resume with Python and NLP — scoring it, surfacing skills, and matching it against a job description.
 
